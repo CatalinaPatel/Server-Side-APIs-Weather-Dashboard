@@ -1,0 +1,10 @@
+
+.#search-button{
+    color: black;
+    size: 21px;
+}
+
+.#forecast {
+    position: absolute;
+    left: -4%;
+}
