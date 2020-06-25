@@ -29,35 +29,35 @@ h3, h4, h5{
 
 .low{
     border-radius: 6px;
-    background-color: green;
+    background-color: rgb(35, 10, 128);
     padding: 5px;
     color: white;
 }
 
 .moderate{
     border-radius: 6px;
-    background-color: yellow;
+    background-color: rgb(153, 0, 255);
     padding: 5px;
     color: black;
 }
 
 .high{
     border-radius: 6px;
-    background-color: orange;
+    background-color: rgb(230, 82, 24);
     padding: 5px;
     color: black;
 }
 
 .vhigh{
     border-radius: 6px;
-    background-color: red;
+    background-color: rgb(179, 44, 50);
     padding: 5px;
     color: white;
 }
 
 .extreme{
     border-radius: 6px;
-    background-color: violet;
+    background-color: rgb(245, 1, 1);
     padding: 5px;
     color: white;
 }
